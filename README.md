@@ -1,11 +1,15 @@
 <h2 align="center">Cauã Vinicius</h2>
 <div>
 
-- Owner Of DashiBOT // YuzuBOT
-- Over 70,000 automated WhatsApps 
-- Focused on javascript, typescript and python
+<p align="center">
+<a href="#"><img title="WHATSAPP DEV" src="https://img.shields.io/badge/Causs - WhatsApp dev-green?colorA=%8A0829&colorB=%4B610B&style=for-the-badge"></a>
+</p>
+- Owner Of DashiBOT // YuzuBOT </br>
+- Over 70,000 automated WhatsApps </br>
+- Focused on javascript, typescript and python </br>
 - See more about me: @caussz (<a href="https://instagram.com/caussz?igshid=YmMyMTA2M2Y=">on Instragram</a>)
-
+</br></br>
+<p> I was part of major projects involving messenger automation, currently working and understand several libs, such as baileys, instaJS, discordJS and the official lib of telegram. <p>
 </div>
 
 ##
