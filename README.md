@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2 align="center">Cauã Vinicius</h2>
+<div>
 
-<!--
-**Caussz/Caussz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Owner Of DashiBOT // YuzuBOT
+- Over 70,000 automated WhatsApps 
+- Focused on javascript, typescript and python
+- See more about me: @caussz (<a href="https://instagram.com/caussz?igshid=YmMyMTA2M2Y=">on Instragram</a>)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div align="center">
+  <a href="https://github.com/Caussz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caussz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caussz&layout=compact&langs_count=7&theme=dark"/>
+</div>
