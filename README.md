@@ -2,14 +2,18 @@
 <div>
 
 <p align="center">
-<a href="#"><img title="WHATSAPP DEV" src="https://img.shields.io/badge/Causs - WhatsApp dev-green?colorA=%8A0829&colorB=%4B610B&style=for-the-badge"></a>
+<a href="#"><img title="Full Stack Developer" src="https://img.shields.io/badge/Full Stack Developer-green?colorA=%8A0829&colorB=%4B610B&style=for-the-badge"></a>
 </p>
-- Owner Of DashiBOT // YuzuBOT </br>
-- Over 70,000 automated WhatsApps </br>
-- Focused on javascript, typescript and python </br>
-- See more about me: @caussz (<a href="https://instagram.com/caussz?igshid=YmMyMTA2M2Y=">on Instragram</a>)
+
+- **Full Stack Developer** at **BoxTi** 🚀
+- Over **100,000 automated WhatsApp** interactions, streamlining business communication 🔥
+- Proficient in **JavaScript**, **TypeScript**, and **Python** 🖥️
+- **Technical Background**: Graduated in **Technical Informatics** from **Instituto Federal Catarinense – Araquari Campus** 🎓
+- Extensive experience with **messenger automation**, specializing in libraries such as **Baileys**, **InstaJS**, **DiscordJS**, and the official **Telegram API** 📲
+
+<p>Feel free to connect with me to explore new opportunities and innovative projects: @caussz (<a href="https://instagram.com/caussz?igshid=YmMyMTA2M2Y=">Instagram</a>)</p>
 </br></br>
-<p> I was part of major projects involving messenger automation, currently working and understand several libs, such as baileys, instaJS, discordJS and the official lib of telegram. <p>
+
 </div>
 
 ##
