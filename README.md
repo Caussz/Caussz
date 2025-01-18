@@ -8,7 +8,7 @@
 - **Full Stack Developer** at **BoxTi** 🚀
 - Over **100,000 automated WhatsApp** interactions, streamlining business communication 🔥
 - Proficient in **JavaScript**, **TypeScript**, and **Python** 🖥️
-- **Technical Background**: Graduated in **Technical Informatics** from **Instituto Federal Catarinense – Araquari Campus** 🎓
+- Technical background: **Instituto Federal Catarinense** – Araquari Campus 🎓
 - Extensive experience with **messenger automation**, specializing in libraries such as **Baileys**, **InstaJS**, **DiscordJS**, and the official **Telegram API** 📲
 
 <p>Feel free to connect with me to explore new opportunities and innovative projects: @caussz (<a href="https://instagram.com/caussz?igshid=YmMyMTA2M2Y=">Instagram</a>)</p>
